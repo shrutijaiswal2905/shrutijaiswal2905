@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shruti</h1>
-<h3 align="center">Final-year student passionate about Data Analytics, Visualization, and building impactful projects.</h3>
+### Hey there! 👋
 
-### Hey there! 👋 
-* 👂 My name is shruti
-* 🌟 Aspiring Full-Stack Developer | UI/UX Enthusiast
-* 🚀 Passionate about **tech, design, and innovation**, always eager to learn and collaborate on exciting projects.
-* ✨ Let’s connect and create something amazing together! 
-* 📫 How to reach me: shrutijaiswl2905@gmail.com
+* 👩‍💻 I am **Shruti**
+* 🌟 **Aspiring Data Analyst** | Final-year student at VIT Bhopal
+* 🚀 Passionate about **tech, design, and data storytelling**, always eager to learn and collaborate on impactful projects
+* ✨ Let’s connect and create something amazing together!
+* 📫 Reach me at: **[shrutijaiswal2905@gmail.com](mailto:shrutijaiswal2905@gmail.com)**
+
+---
+
+Let me know if you need a **one-liner summary** for your pinned GitHub bio as well.
+
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fUw9xwj6DN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shruti-kumari-791871250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutijaiswal2905@gmail.com) 
