@@ -1,4 +1,3 @@
-<div align="center">
 
 # 💫 About Me:
 
@@ -32,6 +31,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=shrutijaiswal2905&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shrutijaiswal2905&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutijaiswal2905&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
