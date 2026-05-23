@@ -1,7 +1,4 @@
 
-# Hi 👋, I'm Shruti!
-### Final-year CS Student | Software Engineer | Passionate about AI/ML & Agentic Systems
-
 # 💫 About Me:
 👋 Hi, I'm Shruti!<br>
 🎓 Final-year CS student at VIT Bhopal & Software Engineer.<br>
