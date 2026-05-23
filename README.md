@@ -6,11 +6,6 @@
 📊 Data analytics background helps me bring a data-driven mindset to everything I build.<br>
 🚀 Always learning, always shipping — let's connect and build something awesome!
 
-- 🔭 I'm currently working on **AI-powered systems and Agentic AI workflows**
-- 🌱 I'm currently learning **Agentic AI, LLM integrations and ML pipelines**
-- 💬 Ask me about **Python, FastAPI, AI Agents, Data Analytics**
-- 📫 Reach me at **shrutijaiswal2905@gmail.com**
-- ⚡ Fun fact **I'm also learning Japanese alongside building AI systems 🇯🇵**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-kumari-791871250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutijaiswal2905@gmail.com)
